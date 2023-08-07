@@ -4,6 +4,8 @@
 .navbar-brand{
   
   font-family: 'Rajdhani', sans-serif;
+  position: absolute;
+  margin: 650px;
 }
 
 h1{

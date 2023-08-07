@@ -36,7 +36,7 @@ class App extends Component {
       {id: 6, nome: "Nuggets", descrizione: "Meravigliose crocchette di pollo con pepe nero, una delizia per il palato!", prezzo: 4, immagine: Nuggets, quantità: 0},
       {id: 7, nome: "Toast", descrizione: "Due deliziosi strati di prosciutto cotto e formaggio o anche da condire con la nostra insalata di pomodoro.", prezzo : 3.50, immagine: Toast, quantità: 0},
       {id: 8, nome: "Tuborg", descrizione: "Cavalca la tua sete e goditi una birra freschissima!", prezzo: 2.50, immagine: Tuborg, quantità: 0}, 
-      {id: 9, nome: "Dreher", descrizione: "Ebbene si! Al limone è ancora più dissetante!",  prezzo: 3, immagine: Dreher, quantità: 0},
+      {id: 9, nome: "Dreher", descrizione: "Cavalca la tua sete e goditi una birra freschissima!",  prezzo: 3, immagine: Dreher, quantità: 0},
       {id: 10, nome: "Peroni", descrizione: "Cavalca la tua sete e goditi una birra freschissima!", prezzo: 2.50, immagine: Peroni, quantità: 0},
       {id: 11, nome: "Nastro Azzurro", descrizione: "Cavalca la tua sete e goditi una birra freschissima!",  prezzo: 3, immagine: NastroAzzurro, quantità: 0},
       {id: 12, nome: "Cocacola", descrizione: "Un paradiso per il suo gusto in ogni bollicina!",  prezzo: 2, immagine: Cocacola, quantità: 0},
