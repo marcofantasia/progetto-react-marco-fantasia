@@ -1,8 +1,8 @@
 function Navbar(){
     return(
-        <nav className="navbar bg-black">
+        <nav className="navbar bg-black border-danger">
   <div className="container-fluid">
-    <span className="navbar-brand mb-0 mt-4 text-danger">TECHFASTFOOD</span>
+    <div className="navbar-brand mt-1 mx-auto text-danger">TECHFASTFOOD</div>
     
     
   </div>
